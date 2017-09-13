@@ -11,7 +11,7 @@ import android.widget.NumberPicker;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private final int WHOLE_NOTE = 1000;
-    //hi
+    //hello
 
     private Button lgsButton, bButton, AsButton, aButton, cButton, csButton, dButton, dsButton, eButton, fButton, fsButton, gButton, gsButton, haButton, hbButton, hcButton, hasButton, escaleButton, starButton, challenge2Button, yeeButton, wiiButton;
     private MediaPlayer lgsNote, aNote, asNote, bNote, cNote, csNote, dNote, dsNote, eNote, fNote, fsNote, gNote, gsNote, haNote, hasNote, hbNote, hcNote, hcsNote, hdNote, hdsNote, heNote, hfNote, hfsNote, hgNote, hgsNote, yee, wii;
